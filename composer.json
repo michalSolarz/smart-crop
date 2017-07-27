@@ -1,0 +1,21 @@
+{
+  "name": "michal-solarz/smart-crop",
+  "description": "PHP smartCrop",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michał Solarz",
+      "email": "michalsolarz83@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "MichalSolarz\\SmartCrop\\": "src"
+    }
+  }
+}
